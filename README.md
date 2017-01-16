@@ -16,11 +16,31 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+# Wedding Events
+- Ring Ceremony
+- Sangeet Sandhya
+- Dandiya Raas
+- Mehndi Geet
+- Lagna Geet
+- Couple Entry
 
-1. Numbered
-2. List
+# Theme-based Events
+- Rocks Shows
+- Birthday Party
+- Anniversary Celebrations
+- Cocktail Parties
+- New Year's Eve Celebrations
+
+# Concerts and Bands
+- Fusion Bands
+- Live Orchestra
+- Classical Music
+- Jaltarang
+
+# Special Events
+- Sounds & Lights
+- Celebrity Management
+- Corporate Events
 
 **Bold** and _Italic_ and `Code` text
 
